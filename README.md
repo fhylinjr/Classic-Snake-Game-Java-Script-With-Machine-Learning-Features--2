@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/fhylinjr/Classic-Snake-Game-Java-Script-With-Machine-Learning-Features-/blob/master/Classic%20Snake%20Game.gif' />
+<img src='https://github.com/fhylinjr/Classic-Snake-Game-Java-Script-With-Machine-Learning-Features--2/blob/master/mlclassic%20snake.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
